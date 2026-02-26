@@ -22,3 +22,7 @@ Pessoa A: 1–5
 Pessoa B: 2–10
 Resultado: 2
 
+
+# Teste
+
+<img width="669" height="640" alt="image" src="https://github.com/user-attachments/assets/440422c8-3188-4d7c-92ff-abd396eeff7b" />
